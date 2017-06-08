@@ -1,0 +1,49 @@
+/*
+ * PureIcon
+ * "Simple Icon using Pure HTML Character Entities & CSS"
+ * A project by Fathy AR
+ * Currently Alpha v1.0.0 version
+ * https://github.com/orangtanah/PureIcon
+ */
+ .icon-arrow-up::before { content: "\02039"; font-weight: 900; font-size: inherit; display: inline-block; transform: rotate(90deg); -webkit-transform: rotate(90deg); -ms-transform: rotate(90deg); line-height: 1.5em; vertical-align: middle;}
+ .icon-arrow-down::before { content: "\0203A"; font-weight: 900; font-size: inherit; display: inline-block; transform: rotate(90deg); -webkit-transform: rotate(90deg); -ms-transform: rotate(90deg); line-height: 1.5em; vertical-align: middle;}
+ .icon-arrow-left::before { content: "\02039"; font-family: sans-serif; font-size: inherit; font-weight: 900; }
+ .icon-arrow-right::before { content: "\0203A"; font-family: sans-serif; font-size: inherit; font-weight: 900; }
+ .icon-asterisk::before { content: "\2731"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-box-o::before { content: "\2610"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-box-check::before { content: "\2611"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-box-x::before { content: "\2612"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-bulb::before { content: "\1f4a1"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-code-unique::before { content: "\003C\002F\003E"; font-family: fira code, consolas, monaco, monospace; font-size: 50px; font-weight: 900; color: rgb(228, 230, 157); text-shadow: 5px 5px 0px rgb(136, 101, 32);}
+ .icon-code::before { content: "\003C\002F\003E"; font-family: fira code, consolas, monaco, monospace; font-size: inherit; font-weight: inherit; }
+ .icon-check::before { content: "\2713"; font-family: sans-serif; font-size: inherit; font-weight: inherit; }
+ .icon-close::before { content: "\2716"; font-family: sans-serif; font-size: inherit; font-weight: inherit; }
+ .icon-cloud::before { content: "\2601"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-delete::before { content: "\2718"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-ellipsis-h::before { content: "\022EF"; font-family: sans-serif; font-weight: 900; font-size: inherit; display: inline-block; }
+ .icon-ellipsis-h-bold::before { content: "\25CF\25CF\25CF"; font-family: sans-serif; font-weight: 900; font-size: inherit; display: inline-block; }
+ .icon-ellipsis-h-bold-o::before { content: "\25CB\25CB\25CB"; font-family: sans-serif; font-weight: 900; font-size: inherit; display: inline-block; }
+ .icon-ellipsis-v::before { content: "\022EE"; font-family: sans-serif; font-weight: 900; font-size: inherit; display: inline-block; }
+ .icon-ellipsis-v-bold::before { content: "\25CF\25CF\25CF"; font-family: monospace; font-weight: 200; font-size: x-small; display: inline-block; transform: rotate(90deg); -webkit-transform: rotate(90deg); -ms-transform: rotate(90deg); line-height: 1em; vertical-align: middle;}
+ .icon-ellipsis-v-bold-o::before { content: "\25CB\25CB\25CB"; font-family: monospace; font-weight: 900; font-size: x-small; display: inline-block; transform: rotate(90deg); -webkit-transform: rotate(90deg); -ms-transform: rotate(90deg); line-height: 1em; vertical-align: middle;}
+ .icon-envelope-o::before { content: "\2709"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-flag::before { content: "\2691"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-flag-o::before { content: "\2690"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-gear::before { content: "\2699";  font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-heart::before { content: "\2764"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-hamburger::before { content: "\2630"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-home::before { content: "\2302";  font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-pencil::before { content: "\270E"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)"; -webkit-transform: scale(-1, 1);-ms-transform: scale(-1, 1); -moz-transform: scale(-1, 1); -o-transform: scale(-1, 1); transform: scale(-1, 1); }
+ .icon-plane::before { content: "\2708"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-plus::before { content: "\002B"; font-family: sans-serif; font-weight: 900; font-size: inherit; display: inline-block; }
+ .icon-redo::before { content: "\21BB"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-snowman::before { content: "\2603"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-star::before { content: "\2605"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-star-o::before { content: "\2606"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-sun::before { content: "\2600"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-warning::before { content: "\26A0"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-telephone::before { content: "\260E"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-telephone-o::before { content: "\260F"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-trademark::before { content: "\8482"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-umbrella::before { content: "\2602"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
+ .icon-undo::before { content: "\21BA"; font-family: sans-serif; font-weight: inherit; font-size: inherit; display: inline-block; }
