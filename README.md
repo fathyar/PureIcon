@@ -2,15 +2,12 @@
 A library of CSS classes that you can use to add icons on your site without get resources of font files. The icons actually just HTML character entities.
 
 ## Version
----
 This project is still at Alpha v1.0.0 version.
 
 ## Icon Examples
----
 ![Image of PureIcon](https://raw.githubusercontent.com/orangtanah/PureIcon/master/PureIcon_Alpha_v1.0.0.png)
 
 ## Icon Classes Available
----
 ```
 <span class="icon-code-unique"></span>
 <span class="icon-arrow-up"></span>
@@ -36,5 +33,4 @@ This project is still at Alpha v1.0.0 version.
 ```
 
 ## Developers
----
-This project is founded by @orangtanah. You also can contribute to this opensource project.
+This project is founded by [@orangtanah](https://github.com/orangtanah). You also can contribute to this opensource project.
