@@ -33,4 +33,4 @@ This project is still at Alpha v1.0.0 version.
 ```
 
 ## Developers
-This project is founded by [@orangtanah](https://github.com/orangtanah). You also can contribute to this opensource project.
+This project is founded by [@fathyar](https://github.com/fathyar). You also can contribute to this opensource project.
